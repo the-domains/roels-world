@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.4480287
+  brandStrength: 0.2567
+  lightness: 0.3799283
+  rhythmicContrast: 0.6456824
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+typography_spectrum: 0.1039427
+name: Roels World
