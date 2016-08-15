@@ -1,14 +1,28 @@
+name: Roels World
+favicon: null
 layout_spectrum: 1
+typography_spectrum: 0.1039427
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4480287
-  brandStrength: 0.2567
-  lightness: 0.3799283
-  rhythmicContrast: 0.6456824
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-typography_spectrum: 0.1039427
-name: Roels World
+  brandStrength: 0.3125
+  lightness: 0.3799283
+  saturation: 0.4480287
+  rhythmicContrast: 0.6456824
+purpose: []
