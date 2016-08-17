@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The world of Roel]]></title>
         <description><![CDATA[The world of Roel]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/roels-world/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 14:43:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Aug 2016 14:45:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/roels-world/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[FF testen...]]></title>
             <description><![CDATA[<p>Deze week weer aan het werk. Dit is een test post, om te kijken hoe het er allemaal uit komt te zien.</p>]]></description>
-            <link>undefinedff-testen/index.html</link>
+            <link>https://thegrid.ai/roels-world/ff-testen/index.html</link>
             <guid isPermaLink="false">f1cba961-7458-45b9-ad9e-a65703669f05</guid>
-            <pubDate>Wed, 17 Aug 2016 14:43:46 GMT</pubDate>
+            <pubDate>Wed, 17 Aug 2016 14:45:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
