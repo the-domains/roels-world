@@ -1,7 +1,7 @@
 name: Roels World
 favicon: null
-layout_spectrum: 0.5015
-typography_spectrum: 0.1039427
+layout_spectrum: 1
+typography_spectrum: 0.32429
 cta:
   domain: null
   bucket: null
