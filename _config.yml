@@ -1,6 +1,6 @@
 name: Roels World
 favicon: null
-layout_spectrum: 0.50512
+layout_spectrum: 0.49519
 typography_spectrum: 0.32429
 title: The world of Roel
 cta:
@@ -22,8 +22,8 @@ color:
     - '#cea589'
     - '#7b5051'
     - '#ad8169'
-  brandStrength: 0
-  lightness: 0.625
-  saturation: 0.125
-  rhythmicContrast: 0.75
+  brandStrength: 1
+  lightness: 0.4375
+  saturation: 0.625
+  rhythmicContrast: 0
 purpose: []
